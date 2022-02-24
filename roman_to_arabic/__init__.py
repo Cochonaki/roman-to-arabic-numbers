@@ -1,11 +1,11 @@
 # created by Ioannis STASINOPOULOS, 22.Feb.2022
-
-#######################################################
+#
+# ######################################################
 # This package contains functions in order to
 # convert roman numerals into arabic numbers.
-
+#
 # The coding principle rests on the following observation:
-
+#
 # The numerals for 4 (IV) and 9 (IX) are written using
 # "subtractive notation",where the first symbol (I) is
 # subtracted from the larger one (V, or X),
@@ -14,9 +14,9 @@
 # These are the only subtractive forms in standard use.
 #
 # The working logic is:
-
+#
 # - call the principal function roman_to_arabic(roman_number)
-
+#
 # - call parser(roman_number) to iterate through possible subtractive forms
 # and check their existence inside roman_number.
 # If roman_number does not contain any subtractive form, it is evaluated the
