@@ -1,5 +1,5 @@
 ######################################################
-# Run this test in your terminal, by executing
+# Run these tests in your terminal, by executing
 # 'pytest main.py'
 ######################################################
 
