@@ -1,7 +1,6 @@
 # Roman-to-arabic number converter
 
 created by Ioannis STASINOPOULOS, 22.Feb.2022
-####################################
 
 Convert roman numerals into arabic numbers.
 
