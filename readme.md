@@ -15,7 +15,7 @@ thus avoiding the clumsier (IIII, and VIIII).
 Subtractive notation is also used for 40 (XL), 90 (XC), 400 (CD) and 900 (CM).
 
 These are the only subtractive forms in standard use.
-
+ 
 The working logic, implemented inside the 
 ```python
 __init__.py
